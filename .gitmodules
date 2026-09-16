@@ -5,3 +5,6 @@
 [submodule "cosCorr"]
 	path = cosCorr
 	url = https://github.com/cran/cosCorr
+[submodule "multiCorr"]
+	path = multiCorr
+	url = https://github.com/cran/multiCorr
